@@ -9,6 +9,8 @@ from email.mime.image import MIMEImage
 threshold_disk = 50  # Disk usage percentage threshold
 threshold_memory = 50  # Memory usage percentage threshold
 threshold_cpu = 80  # CPU usage percentage threshold
+
+
 email_sender = 'babafarooq001@gmail.com'
 email_receiver = 'babafarooq001@gmail.com'
 email_subject = 'System Resource Alert'
